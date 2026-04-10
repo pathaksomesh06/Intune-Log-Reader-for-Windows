@@ -4,6 +4,8 @@
 
 Intune Log Reader provides real-time analysis and monitoring of Microsoft Intune Management Extension logs on Windows systems.
 
+⚠️ Warning: Unauthorized forks of this repository may contain malicious code. Always download from this official repo only: https://github.com/pathaksomesh06/Intune-Log-Reader-for-Windows
+
 ## Features
 
 - **Automated Log Parsing**: Processes Windows Intune log format automatically
